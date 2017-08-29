@@ -16,7 +16,7 @@
                    <string>software-package</string>
                     <!-- required.the URL of the file to download.-->
                    <key>url</key>
-                   <string>http://repo.yypm.com/dwbuild/mobile/ios/entmobile/entmobile-ios_6.4_device_live_feature/20170607-15322-r587612/entmobile.ipa</string>
+                   <string>http://repo.yypm.com/dwbuild/mobile/ios/entmobile/entmobile-ios_7.1_yylivesdk_feature/20170829-17832-r639610/entmobile.ipa</string>
                </dict>
                <!-- display-image: the icon to display during download .-->
                <dict>
@@ -26,7 +26,7 @@
                    <key>needs-shine</key>
                    <true/>
                    <key>url</key>
-                   <string>http://repo.yypm.com/dwbuild/mobile/ios/entmobile/entmobile-ios_6.4_device_live_feature/20170607-15322-r587612/Icon.png</string>
+                   <string>http://repo.yypm.com/dwbuild/mobile/ios/entmobile/entmobile-ios_7.1_yylivesdk_feature/20170829-17832-r639610/Icon.png</string>
                </dict>
            </array><key>metadata</key>
            <dict>
@@ -35,7 +35,7 @@
                <string>com.yy.enterprise.yyvoice</string>
                <!-- optional (software only) -->
                <key>bundle-version</key>
-               <string>15322</string>
+               <string>17832</string>
                <!-- required.the download kind.-->
                <key>kind</key>
                <string>software</string>
