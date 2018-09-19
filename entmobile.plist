@@ -16,7 +16,7 @@
                    <string>software-package</string>
                     <!-- required.the URL of the file to download.-->
                    <key>url</key>
-                   <string>http://repo.yypm.com/dwbuild/mobile/ios/entmobile/entmobile-ios_7.1_yylivesdk_feature/20170829-17832-r639610/entmobile.ipa</string>
+                   <string>http://172.25.35.12/~jfchen/test.ipa</string>
                </dict>
                <!-- display-image: the icon to display during download .-->
                <dict>
@@ -32,7 +32,7 @@
            <dict>
                <!-- required -->
                <key>bundle-identifier</key>
-               <string>com.yy.enterprise.yyvoice</string>
+               <string>com.slothpg.removelogo</string>
                <!-- optional (software only) -->
                <key>bundle-version</key>
                <string>17832</string>
